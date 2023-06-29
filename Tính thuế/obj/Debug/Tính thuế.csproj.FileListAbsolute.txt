@@ -1,0 +1,25 @@
+D:\Net\Tính thuế\bin\Debug\Tính thuế.exe.config
+D:\Net\Tính thuế\bin\Debug\Tính thuế.exe
+D:\Net\Tính thuế\bin\Debug\Tính thuế.pdb
+D:\Net\Tính thuế\obj\Debug\Tính thuế.csproj.AssemblyReference.cache
+D:\Net\Tính thuế\obj\Debug\Tính thuế.csproj.SuggestedBindingRedirects.cache
+D:\Net\Tính thuế\obj\Debug\Tính_thuế.Form1.resources
+D:\Net\Tính thuế\obj\Debug\Tính_thuế.Form2.resources
+D:\Net\Tính thuế\obj\Debug\Tính_thuế.Properties.Resources.resources
+D:\Net\Tính thuế\obj\Debug\Tính thuế.csproj.GenerateResource.cache
+D:\Net\Tính thuế\obj\Debug\Tính thuế.csproj.CoreCompileInputs.cache
+D:\Net\Tính thuế\obj\Debug\Tính thuế.exe
+D:\Net\Tính thuế\obj\Debug\Tính thuế.pdb
+D:\Net\Tính thuế\obj\Debug\Tính_thuế.Form3.resources
+D:\Tính thuế\bin\Debug\Tính thuế.exe.config
+D:\Tính thuế\bin\Debug\Tính thuế.exe
+D:\Tính thuế\bin\Debug\Tính thuế.pdb
+D:\Tính thuế\obj\Debug\Tính thuế.csprojAssemblyReference.cache
+D:\Tính thuế\obj\Debug\Tính_thuế.Form1.resources
+D:\Tính thuế\obj\Debug\Tính_thuế.Form2.resources
+D:\Tính thuế\obj\Debug\Tính_thuế.Form3.resources
+D:\Tính thuế\obj\Debug\Tính_thuế.Properties.Resources.resources
+D:\Tính thuế\obj\Debug\Tính thuế.csproj.GenerateResource.cache
+D:\Tính thuế\obj\Debug\Tính thuế.csproj.CoreCompileInputs.cache
+D:\Tính thuế\obj\Debug\Tính thuế.exe
+D:\Tính thuế\obj\Debug\Tính thuế.pdb
