@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="A39805" Class="dbdiemDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MSI\SQLEXPRESS;Initial Catalog=A39805;Integrated Security=True" SettingsObjectName="flappy_bird_2.Properties.Settings" SettingsPropertyName="A39805ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.quanlidata" Member="quanlidatas">
+    <Type Name="quanlidata">
+      <Column Name="[Lần chơi]" Member="Lần_chơi" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="[chế độ]" Member="chế_độ" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="điểm" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

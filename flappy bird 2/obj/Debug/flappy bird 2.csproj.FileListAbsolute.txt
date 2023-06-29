@@ -1,0 +1,57 @@
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.choidon.resources
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.Form1.resources
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.Properties.Resources.resources
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy bird 2.csproj.GenerateResource.cache
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy bird 2.csproj.CoreCompileInputs.cache
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\flappy bird 2.exe.config
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\flappy bird 2.exe
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\flappy bird 2.pdb
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\Microsoft.Build.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\System.IO.Compression.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy bird 2.csproj.CopyComplete
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy bird 2.exe
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy bird 2.pdb
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy bird 2.csprojAssemblyReference.cache
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.showdiem.resources
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.choionlline.resources
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.choionlline2.resources
+C:\Users\starl\Downloads\flappy brid\flappy bird 2\obj\Debug\flappy_bird_2.FormLANcs.resources
+D:\.NNET\flappy bird 2\bin\Debug\flappy bird 2.exe.config
+D:\.NNET\flappy bird 2\bin\Debug\flappy bird 2.exe
+D:\.NNET\flappy bird 2\bin\Debug\flappy bird 2.pdb
+D:\.NNET\flappy bird 2\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.csproj.AssemblyReference.cache
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.csproj.SuggestedBindingRedirects.cache
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.choidon.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.choionlline.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.choionlline2.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.Form1.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.FormLANcs.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.Properties.Resources.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy_bird_2.showdiem.resources
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.csproj.GenerateResource.cache
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.csproj.CoreCompileInputs.cache
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.csproj.CopyComplete
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.exe
+D:\.NNET\flappy bird 2\obj\Debug\flappy bird 2.pdb

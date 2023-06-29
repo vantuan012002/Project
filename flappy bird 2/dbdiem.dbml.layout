@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbdiem">
+  <DataContextMoniker Name="/dbdiemDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5f2b734b-9316-4ae9-9c79-05f7e847510c" absoluteBounds="5, 1.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/dbdiemDataContext/quanlidata" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f93458f3-d17b-4257-9edd-cc945eb84e6c" absoluteBounds="5.015, 2.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
