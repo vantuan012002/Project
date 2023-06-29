@@ -1,0 +1,17 @@
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.csproj.AssemblyReference.cache
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.Client.resources
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+D:\.NNET\client\client\bin\Debug\net6.0-windows\client.exe
+D:\.NNET\client\client\bin\Debug\net6.0-windows\client.deps.json
+D:\.NNET\client\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+D:\.NNET\client\client\bin\Debug\net6.0-windows\client.dll
+D:\.NNET\client\client\bin\Debug\net6.0-windows\client.pdb
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.dll
+D:\.NNET\client\client\obj\Debug\net6.0-windows\refint\client.dll
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.pdb
+D:\.NNET\client\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+D:\.NNET\client\client\obj\Debug\net6.0-windows\ref\client.dll

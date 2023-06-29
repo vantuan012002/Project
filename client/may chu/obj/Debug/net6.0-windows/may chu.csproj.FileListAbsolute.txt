@@ -1,0 +1,17 @@
+D:\.NNET\client\may chu\bin\Debug\net6.0-windows\may chu.exe
+D:\.NNET\client\may chu\bin\Debug\net6.0-windows\may chu.deps.json
+D:\.NNET\client\may chu\bin\Debug\net6.0-windows\may chu.runtimeconfig.json
+D:\.NNET\client\may chu\bin\Debug\net6.0-windows\may chu.dll
+D:\.NNET\client\may chu\bin\Debug\net6.0-windows\may chu.pdb
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.csproj.AssemblyReference.cache
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may_chu.Server.resources
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.csproj.GenerateResource.cache
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.AssemblyInfoInputs.cache
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.AssemblyInfo.cs
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.csproj.CoreCompileInputs.cache
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.dll
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\refint\may chu.dll
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.pdb
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\may chu.genruntimeconfig.cache
+D:\.NNET\client\may chu\obj\Debug\net6.0-windows\ref\may chu.dll
