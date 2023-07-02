@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="reset.css">
+
+</head>
+<body>
+    <div class="Signup">
+        <h1 class="signup-heading">Sign Up</h1>
+        <button class="signup-social"> 
+            <i class="fa fa-google signup-social-icon"></i>
+            <span class="signup-social-text"> Sign up with Google</span>
+        </button>
+        <div class="signup-or"> <pan>Or</pan> </div>
+
+    <form onsubmit="signup()"
+    action="#" class="signup-form" autocomplete="off">
+        <!-- form tai khoan gmail mat khau cua signup-->
+        <label for=" fullname" class=" signup-label"> Full Name</label>
+        <input type="text" id="fullname" class="signup-input-name" placeholder="Name of you">
+
+        <label for=" Gmail" id="gmail" class=" signup-label">Gmail</label>
+        <input type="text" class="signup-input-gmail" placeholder="Gmail of you">
+        <label for=" Password" id="password" class=" signup-label">Password</label>
+        <input type="text" class="signup-input-password" placeholder="Password of you">
+        <button   class="signup-submit"> <a class="line" href="login.html"> Sign Up</a>
+        </button>
+    
+        
+    </form>
+
+        <p class="signup-already"> <span> Ban da co Tai Khoan ?</span>
+            <a href="login.html" class="signup-login">Login</a>
+        </p>
+        
+
+    </div>
+
+</body>
+
+</html>
+
